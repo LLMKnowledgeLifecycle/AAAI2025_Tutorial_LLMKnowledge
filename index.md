@@ -24,31 +24,31 @@ Inspired by this, large language models have been used to generate commonsense k
 
 <img src="images/ManlingLi.png" alt="Manling Li" width="200" height="200">
 
-Manling Li is an Assistant Professor at Northwestern University. She was a postdoc at Stanford University and obtained the PhD degree in Computer Science at University of Illinois Urbana-Champaign in 2023. She works on the intersection of language, vision, and robotics. Her work won the ACL’24 Outstanding Paper Award, ACL'20 Best Demo Paper Award, and NAACL'21 Best Demo Paper Award. She was a recipient of Microsoft Research PhD Fellowship in 2021, an EE CS Rising Star in 2022, a DARPA Riser in 2022, etc. She served as Organizing Committee of ACL 25, NAACL 25, EMNLP 24, and delivered tutorials about multimodal knowledge at IJCAI'24, CVPR'23, NAACL'22, AAAI'21, ACL'21, etc. 
+Manling Li is an Assistant Professor at Northwestern University. She was a postdoc at Stanford University and obtained the PhD degree in Computer Science at University of Illinois Urbana-Champaign in 2023. She works on the intersection of language, vision, and robotics. Her work won the ACL’24 Outstanding Paper Award, ACL'20 Best Demo Paper Award, and NAACL'21 Best Demo Paper Award. She was a recipient of Microsoft Research PhD Fellowship in 2021, an EE CS Rising Star in 2022, a DARPA Riser in 2022, etc. She served as Organizing Committee of ACL 25, NAACL 25, EMNLP 24, and delivered tutorials about multimodal knowledge at IJCAI'24, CVPR'23, NAACL'22, AAAI'21, ACL'21, etc. https://limanling.github.io/
 
 ### Zoey Li 
 
-<img src="images/ShaLi.JPG" alt="Sha Li" width="200" height="400">
+<img src="images/ShaLi.JPG" alt="Sha Li" width="200" height="300">
 
-(Zoey) Sha Li is an applied scientist at Amazon working on LLM pretraining scaling laws and data selection. She obtained her PhD in 2024 at the University of Illinois Urbana-Champaign working with Prof. Jiawei Han and Prof. Heng Ji. Her past research was mainly on information extraction and procedure understanding, extending to the understanding of knowledge within language models and utilizing LMs for knowledge-intensive tasks. She has published 20+ papers at venues such as ACL, EMNLP, NAACL, Neurips, WWW and is an organizer of the workshop "Towards Knowledgeable Language Models" at ACL 2024.
+(Zoey) Sha Li is an applied scientist at Amazon working on LLM pretraining scaling laws and data selection. She obtained her PhD in 2024 at the University of Illinois Urbana-Champaign working with Prof. Jiawei Han and Prof. Heng Ji. Her past research was mainly on information extraction and procedure understanding, extending to the understanding of knowledge within language models and utilizing LMs for knowledge-intensive tasks. She has published 20+ papers at venues such as ACL, EMNLP, NAACL, Neurips, WWW and is an organizer of the workshop "Towards Knowledgeable Language Models" at ACL 2024. https://raspberryice.github.io/
 
 ### Yuji Zhang
 
 <img src="images/YujiZhang.jpeg" alt="Yuji Zhang" width="200" height="200">
 
-Yuji Zhang is a postdoctoral researcher in computer science at the University of Illinois, Urbana-Champaign, advised by Prof. Heng Ji. She works on interpreting and updating large language models (LLM), with a focus on knowledge mechanisms in LLMs. She has papers in top-tier conferences including EMNLP, ACL, ICLR, etc. 
+Yuji Zhang is a postdoctoral researcher in computer science at the University of Illinois, Urbana-Champaign, advised by Prof. Heng Ji. She works on interpreting and updating large language models (LLM), with a focus on knowledge mechanisms in LLMs. She has papers in top-tier conferences including EMNLP, ACL, ICLR, etc. https://celestinezyj.github.io/
 
 ### Chi Han
 
 <img src="images/chi_han.jpg" alt="Chi Han" width="200" height="200">
 
-Chi Han is a Ph.D. candidate in computer science at UIUC, advised by Prof. Heng Ji. His research focuses on understanding and adapting large language model (LLM) representations. He has first-authored papers in NeurIPS, ICLR, NAACL, and ACL, earning Outstanding Paper Awards at NAACL 2024 and ACL 2024.
+Chi Han is a Ph.D. candidate in computer science at UIUC, advised by Prof. Heng Ji. His research focuses on understanding and adapting large language model (LLM) representations. He has first-authored papers in NeurIPS, ICLR, NAACL, and ACL, earning Outstanding Paper Awards at NAACL 2024 and ACL 2024. https://glaciohound.github.io
 
 ### Heng Ji
 
 <img src="images/ji_heng.jpeg" alt="Heng Ji" width="200" height="200">
 
-Heng Ji, a Professor at UIUC and Amazon Scholar, directs the Amazon-Illinois Center on AI for Interactive Conversational Experiences. With expertise in NLP, multimedia multilingual information extraction, and knowledge-enhanced language models, she has earned numerous accolades, including IEEE’s “AI’s 10 to Watch,” NSF CAREER, and multiple Best Paper Awards.
+Heng Ji, a Professor at UIUC and Amazon Scholar, directs the Amazon-Illinois Center on AI for Interactive Conversational Experiences. With expertise in NLP, multimedia multilingual information extraction, and knowledge-enhanced language models, she has earned numerous accolades, including IEEE’s “AI’s 10 to Watch,” NSF CAREER, and multiple Best Paper Awards. https://blender.cs.illinois.edu/hengji.html
 
 
 ## Time Schedule
