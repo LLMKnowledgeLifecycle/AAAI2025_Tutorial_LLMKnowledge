@@ -12,7 +12,7 @@ Welcome to the official page for our AAAI 2025 tutorial!
 - **Date and Time:** Wednesday, February 26, 8:30am-12:30am, 2025
 - **Location:** [Pennsylvania Convention Center](https://www.paconvention.com), Room 116, Philadelphia, PA USA
 
-## Title: The Lifecycle of Knowledge in Large Language Models: Memorization, Editing, and Beyond
+## TH17: The Lifecycle of Knowledge in Large Language Models: Memorization, Editing, and Beyond
 
 Knowledge is an important prerequisite for various AI applications. It is typically sourced from either structured knowledge sources, such as knowledge bases and dictionaries, or unstructured knowledge sources, such as Wikipedia documents. More recently, researchers have discovered that large language models (LLMs) already possess a significant amount of knowledge through pre-training.
 
