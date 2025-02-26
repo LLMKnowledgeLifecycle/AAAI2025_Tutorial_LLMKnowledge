@@ -9,7 +9,7 @@ Welcome to the official page for our AAAI 2025 tutorial!
 
 - **Speakers:** [Manling Li](https://limanling.github.io/), [Zoey Sha Li](https://raspberryice.github.io/), [Yuji Zhang](https://celestinezyj.github.io/), [Chi Han](https://glaciohound.github.io), [Heng Ji](https://blender.cs.illinois.edu/hengji.html) 
 - **Venue:** [AAAI 2025 Tutorials](https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list/#TQ17)
-- **Date and Time:** Wednesday, February 26, 8:30am-12:30am, 2025
+- **Date and Time:** Wednesday, February 26, 8:30am-12:30pm, 2025
 - **Location:** [Pennsylvania Convention Center](https://www.paconvention.com), Room 116, Philadelphia, PA USA
 
 ## TH17: The Lifecycle of Knowledge in Large Language Models: Memorization, Editing, and Beyond
