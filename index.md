@@ -72,4 +72,4 @@ Heng Ji, a Professor at UIUC and Amazon Scholar, directs the Amazon-Illinois Cen
 
 ## Materials
 
-Our slides [Release of AAAI Tutorial 2025 Knowledge Lifecycle.pdf]
+Our slides [Release of AAAI Tutorial 2025 Knowledge Lifecycle.pdf](/Release%20of%20AAAI%20Tutorial%202025%20Knowledge%20Lifecycle.pdf)
